@@ -6,7 +6,7 @@ Example calls:
 - GET http://localhost:8080/products to get all products available for creating an Offer
 - GET http://localhost:8080/offers to get all saved offers 
 
-- POST http://localhost:8080/offer to create an offer with a payload: 
+- POST http://localhost:8080/offers to create an offer with a payload: 
 
 {
   "product" : PRODUCT_ID,
